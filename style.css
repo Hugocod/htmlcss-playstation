@@ -2,3 +2,18 @@
 .um-logo-sony {
     width: 100px;
 }
+
+.um-hero-bg {
+    background-image: url(img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.um-hero-padding {
+    padding-top: 250px;
+}
+
+/* colors */
+.um-bg-red {
+    background-color: rgba(164, 49, 12, 1);
+}
