@@ -1,6 +1,7 @@
 /* custom classes */
 .um-logo-sony {
-    width: 100px;
+    width: 70px;
+    padding: 10px 0px;
 }
 
 .um-hero-bg {
@@ -10,10 +11,14 @@
 }
 
 .um-hero-padding {
-    padding-top: 250px;
+    padding-top: 300px;
 }
 
 /* colors */
 .um-bg-red {
     background-color: rgba(164, 49, 12, 1);
+}
+
+.um-c-blue {
+    color: rgba(57, 145, 217, 1);
 }
