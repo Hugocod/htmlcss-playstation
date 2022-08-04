@@ -10,6 +10,12 @@
     background-position: center;
 }
 
+.um-itt-bg {
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 .um-hero-padding {
     padding-top: 300px;
 }
