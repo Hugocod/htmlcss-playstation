@@ -24,7 +24,17 @@
 .um-bg-red {
     background-color: rgba(164, 49, 12, 1);
 }
+.um-bg-gray {
+    background-color: rgba(152, 150, 150, 1);
+}
+.um-bg-gray-light {
+    background-color: rgba(174, 174, 176, 1);
+}
 
 .um-c-blue {
     color: rgba(57, 145, 217, 1);
+}
+
+.um-c-dark-blue {
+    color: #2a54b8;
 }
