@@ -20,6 +20,15 @@
     padding-top: 300px;
 }
 
+.um-globe {
+    height: 20px;
+}
+
+.um-w-max {
+    min-width: 150px;
+    max-width: 200px;
+}
+
 /* colors */
 .um-bg-red {
     background-color: rgba(164, 49, 12, 1);
@@ -32,6 +41,10 @@
 }
 .um-bg-blue-night {
     background-color: rgba(18, 22, 47, 1);
+}
+
+.um-bg-dark-blue {
+    background-color: #2a54b8;
 }
 
 .um-c-blue {
