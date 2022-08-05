@@ -29,6 +29,10 @@
     max-width: 200px;
 }
 
+#hero-section {
+    margin-top: 100px;
+}
+
 /* colors */
 .um-bg-red {
     background-color: rgba(164, 49, 12, 1);
@@ -53,4 +57,26 @@
 
 .um-c-dark-blue {
     color: #2a54b8;
+}
+
+/* hover and effect */
+
+#card-section img {
+    transition: all ease-in-out 0.4s;
+}
+
+#card-section img:hover {
+    transform: translateY(-20%);
+}
+
+#product-section :last-child > .col:hover {
+    border-bottom: 3px solid rgba(57, 145, 217, 1);
+}
+
+#product-section :last-child > .col img {
+    opacity: 0.7;
+}
+
+#product-section :last-child > .col:hover img {
+    opacity: 1;
 }
